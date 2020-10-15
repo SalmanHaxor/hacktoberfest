@@ -2430,5 +2430,5 @@ Noida
 
 #### Name: [Salman Rai](https://github.com/salmanhaxor)
 - Place: Garut, Indonesian
-- Bio: Pentester
+- Bio: Pentester, FrontEnd
 - Github: [Salman Rai](https://github.com/salmanhaxor)
